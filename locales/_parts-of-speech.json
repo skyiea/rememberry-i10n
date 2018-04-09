@@ -1,0 +1,57 @@
+{
+    "noun": {
+        "en": "noun",
+        "uk": "іменник",
+        "ru": "имя существительное"
+    },
+    "interjection": {
+        "en": "interjection",
+        "uk": "вигук",
+        "ru": "возглас"
+    },
+    "verb": {
+        "en": "verb",
+        "uk": "дієслово",
+        "ru": "глагол"
+    },
+    "adjective": {
+        "en": "adjective",
+        "uk": "прикметник",
+        "ru": "имя прилагательное"
+    },
+    "adverb": {
+        "en": "adverb",
+        "uk": "прислівник",
+        "ru": "наречие"
+    },
+    "preposition": {
+        "en": "preposition",
+        "uk": "прийменник",
+        "ru": "предлог"
+    },
+    "conjunction": {
+        "en": "conjunction",
+        "uk": "сполучник",
+        "ru": "союз"
+    },
+    "pronoun": {
+        "en": "pronoun",
+        "uk": "займенник",
+        "ru": "местоимение"
+    },
+    "article": {
+        "en": "article",
+        "uk": "артикль",
+        "ru": "артикль"
+    },
+    "auxiliary_verb": {
+        "en": "auxiliary verb",
+        "uk": "допоміжне дієслово",
+        "ru": "вспомогательный глагол"
+    },
+    "particle": {
+        "en": "particle",
+        "uk": "частка",
+        "ru": "частица"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "deckMenuActions_title": {
+        "en": "Actions",
+        "uk": "Дії",
+        "ru": "Действия"
+    },
+    "deckMenuActions_activate": {
+        "en": "Make targeted",
+        "uk": "Зробити цільовою",
+        "ru": "Сделать целевой"
+    },
+    "deckMenuActions_activate_tip": {
+        "en": "Save new cards to this deck",
+        "uk": "Зберігати нові картки в цю колоду",
+        "ru": "Сохранять новые карточки в эту колоду"
+    },
+    "deckMenuActions_activated": {
+        "en": "Targeted",
+        "uk": "Цільова",
+        "ru": "Целевая"
+    },
+    "deckMenuActions_activated_tip": {
+        "en": "New cards will be saved to this deck",
+        "uk": "Нові картки зберігатимуться в цю колоду",
+        "ru": "Новые карточки будут сохраняться в эту колоду"
+    },
+    "deckMenuActions_create": {
+        "en": "Create deck",
+        "uk": "Створити колоду",
+        "ru": "Создать колоду"
+    },
+    "deckMenuActions_remove": {
+        "en": "Remove deck",
+        "uk": "Видалити колоду",
+        "ru": "Удалить колоду"
+    },
+    "deckMenuActions_remove_last_tip": {
+        "en": "Can't remove last deck",
+        "uk": "Неможливо видалити останню колоду",
+        "ru": "Нельзя удалить последнюю колоду"
+    },
+    "deckMenuActions_remove_target_tip": {
+        "en": "Can't remove targeted deck",
+        "uk": "Неможливо видалити цільову колоду",
+        "ru": "Невозможно удалить целевую колоду"
+    },
+    "deckMenuActions_import": {
+        "en": "Import",
+        "uk": "Імпортувати",
+        "ru": "Импортировать"
+    },
+    "deckMenuActions_import_tip": {
+        "en": "JSON, CSV"
+    },
+    "deckMenuActions_export_disabled_tip": {
+        "en": "Deck is empty",
+        "uk": "Колода пуста",
+        "ru": "Колода пустая"
+    },
+    "deckMenuActions_export": {
+        "en": "Export",
+        "uk": "Експортувати",
+        "ru": "Экспортировать"
+    },
+    "deckMenuActions_exportAs": {
+        "en": "Save as",
+        "uk": "Зберегти як",
+        "ru": "Сохранить как"
+    },
+    "deckMenuActions_export_anki": {
+        "en": "Compatible with Anki",
+        "uk": "Сумісний з Anki",
+        "ru": "Совместимый с Anki"
+    },
+    "deckMenuActions_backup": {
+        "en": "Backup",
+        "uk": "Резервна копія",
+        "ru": "Резервнаю копия"
+    },
+    "deckMenuActions_backup_create": {
+        "en": "Create",
+        "uk": "Створити",
+        "ru": "Создать"
+    },
+    "deckMenuActions_backup_create_tip": {
+        "en": "Save all your decks and learning progress",
+        "uk": "Збережіть всі свої колоди і прогрес",
+        "ru": "Сохраните все свои колоды и прогресс"
+    },
+    "deckMenuActions_backup_restore": {
+        "en": "Restore",
+        "uk": "Відновити",
+        "ru": "Восстановить"
+    }
+}

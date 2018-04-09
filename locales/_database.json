@@ -1,0 +1,530 @@
+{
+    "languages": {
+        "en": "languages",
+        "uk": "мови",
+        "ru": "языки"
+    },
+    "source_language": {
+        "en": "source language",
+        "uk": "мова оригіналу",
+        "ru": "язык оригинала"
+    },
+    "target_language": {
+        "en": "target language",
+        "uk": "мова перекладу",
+        "ru": "язык перевода"
+    },
+    "modifiers": {
+        "en": "modifiers",
+        "uk": "модифікатори",
+        "ru": "модификаторы"
+    },
+    "trigger_action": {
+        "en": "trigger action",
+        "uk": "тип запуску",
+        "ru": "тип запуска"
+    },
+    "triggers": {
+        "en": "triggers",
+        "uk": "тригери",
+        "ru": "триггеры"
+    },
+    "key_modifier": {
+        "en": "key modifier",
+        "uk": "клавіша модифікатор",
+        "ru": "клавиша модификатор"
+    },
+    "detect": {
+        "en": "detect",
+        "uk": "автовизначення",
+        "ru": "автоопределение"
+    },
+    "save": {
+        "en": "save",
+        "uk": "зберегти",
+        "ru": "сохранить"
+    },
+    "sentence": {
+        "en": "sentence",
+        "uk": "речення",
+        "ru": "предложения"
+    },
+    "custom": {
+        "en": "custom",
+        "uk": "інший",
+        "ru": "другой"
+    },
+    "loading": {
+        "en": "loading",
+        "uk": "завантаження",
+        "ru": "загрузка"
+    },
+    "show_answer": {
+        "en": "show answer",
+        "uk": "показати відповідь",
+        "ru": "показать ответ"
+    },
+    "easy": {
+        "en": "easy",
+        "uk": "легко",
+        "ru": "легко"
+    },
+    "normal": {
+        "en": "normal",
+        "uk": "середньо",
+        "ru": "средне"
+    },
+    "hard": {
+        "en": "hard",
+        "uk": "складно",
+        "ru": "сложно"
+    },
+    "decks": {
+        "en": "decks",
+        "uk": "колоди",
+        "ru": "колоды"
+    },
+    "deck": {
+        "en": "deck",
+        "uk": "колода",
+        "ru": "колода"
+    },
+    "deck_description": {
+        "en": "deck description",
+        "uk": "опис колоди",
+        "ru": "описание колоды"
+    },
+    "login": {
+        "en": "login",
+        "uk": "логін",
+        "ru": "логин"
+    },
+    "password": {
+        "en": "password",
+        "uk": "пароль",
+        "ru": "пароль"
+    },
+    "log_in": {
+        "en": "log in",
+        "uk": "увійти",
+        "ru": "войти"
+    },
+    "log_out": {
+        "en": "log out",
+        "uk": "вийти",
+        "ru": "выйти"
+    },
+    "back": {
+        "en": "back",
+        "uk": "назад",
+        "ru": "назад"
+    },
+    "model": {
+        "en": "model",
+        "uk": "модель",
+        "ru": "модель"
+    },
+    "export": {
+        "en": "export",
+        "uk": "експортувати",
+        "ru": "экспортировать"
+    },
+    "expand": {
+        "en": "expand",
+        "uk": "розгорнути",
+        "ru": "развернуть"
+    },
+    "collapse": {
+        "en": "collapse",
+        "uk": "згорнути",
+        "ru": "свернуть"
+    },
+    "original_term": {
+        "en": "original term",
+        "uk": "оригінальний термін",
+        "ru": "оригинальное выражение"
+    },
+    "translations": {
+        "en": "translations",
+        "uk": "переклади",
+        "ru": "переводы"
+    },
+    "card_edit": {
+        "en": "card edit",
+        "uk": "редагування картки",
+        "ru": "редактирования карточки"
+    },
+    "other": {
+        "en": "other",
+        "uk": "інші",
+        "ru": "другие"
+    },
+    "undo": {
+        "en": "undo",
+        "uk": "відмінити останню дію",
+        "ru": "отменить последнее действие"
+    },
+    "filter": {
+        "en": "filter",
+        "uk": "фільтр",
+        "ru": "фильтр"
+    },
+    "cancel": {
+        "en": "cancel",
+        "uk": "скасувати",
+        "ru": "отменить"
+    },
+    "delete": {
+        "en": "delete",
+        "uk": "видалити",
+        "ru": "удалить"
+    },
+    "edit": {
+        "en": "edit",
+        "uk": "редагувати",
+        "ru": "редактировать"
+    },
+    "add_new_translation": {
+        "en": "add new translation",
+        "uk": "додати новий переклад",
+        "ru": "добавить новый перевод"
+    },
+    "check_all": {
+        "en": "check all",
+        "uk": "виділити всі",
+        "ru": "выделить все"
+    },
+    "sort_direction": {
+        "en": "sort direction",
+        "uk": "напрямок сортування",
+        "ru": "направление сортировки"
+    },
+    "new_first": {
+        "en": "new first",
+        "uk": "новизною",
+        "ru": "новизне"
+    },
+    "alphabetically": {
+        "en": "alphabetically",
+        "uk": "алфавітом",
+        "ru": "алфавиту"
+    },
+    "most_repeated": {
+        "en": "most repeated",
+        "uk": "к-стю повторень",
+        "ru": "к-сву повторений"
+    },
+    "most_useful": {
+        "en": "most useful",
+        "uk": "корисністю",
+        "ru": "полезности"
+    },
+    "sort_by": {
+        "en": "sort by",
+        "uk": "сортувати за",
+        "ru": "сортировать по"
+    },
+    "forward": {
+        "en": "forward",
+        "uk": "вперед",
+        "ru": "вперед"
+    },
+    "of": {
+        "en": "of",
+        "uk": "з",
+        "ru": "с"
+    },
+    "popup": {
+        "en": "popup",
+        "uk": "вікно додатку",
+        "ru": "окно приложения"
+    },
+    "popup_type": {
+        "en": "popup type",
+        "uk": "тип вікна",
+        "ru": "тип окна"
+    },
+    "number_of_available_cards": {
+        "en": "number of available cards",
+        "uk": "загальну кількість доступних карток",
+        "ru": "общее количество доступных карточек"
+    },
+    "number_of_available_cards_in_active_deck": {
+        "en": "number of available cards in active deck",
+        "uk": "кількість доступних карток в активній колоді",
+        "ru": "количество доступных карточек в активной колоде"
+    },
+    "reminders": {
+        "en": "reminders",
+        "uk": "нагадування",
+        "ru": "напоминания"
+    },
+    "enable": {
+        "en": "enable",
+        "uk": "увімкнути/вимкнути",
+        "ru": "включить/выключить"
+    },
+    "ripened_cards": {
+        "en": "available cards",
+        "uk": "доступних карток",
+        "ru": "доступных карточек"
+    },
+    "total_cards": {
+        "en": "total cards",
+        "uk": "всього карток",
+        "ru": "всего карточек"
+    },
+    "learning_mode": {
+        "en": "learning mode",
+        "uk": "режим вивчення",
+        "ru": "режим изучения"
+    },
+    "hotkey": {
+        "en": "hotkey",
+        "uk": "гаряча клавіша",
+        "ru": "горячая клавиша"
+    },
+    "start": {
+        "en": "start",
+        "uk": "старт",
+        "ru": "старт"
+    },
+    "learned": {
+        "en": "learned",
+        "uk": "додано",
+        "ru": "добавлено"
+    },
+    "repeated": {
+        "en": "repeated",
+        "uk": "повторено",
+        "ru": "повторено"
+    },
+    "return": {
+        "en": "return",
+        "uk": "повернутись",
+        "ru": "вернуться"
+    },
+    "just_now": {
+        "en": "just now",
+        "uk": "щойно",
+        "ru": "только что"
+    },
+    "ago": {
+        "en": "ago",
+        "uk": "тому",
+        "ru": "назад"
+    },
+    "seconds": {
+        "en": "seconds",
+        "uk": "секунди",
+        "ru": "сек"
+    },
+    "minutes": {
+        "en": "minutes",
+        "uk": "хвилини",
+        "ru": "мин"
+    },
+    "hours": {
+        "en": "hours",
+        "uk": "години",
+        "ru": "ч"
+    },
+    "days": {
+        "en": "days",
+        "uk": "дні",
+        "ru": "дн"
+    },
+    "months": {
+        "en": "months",
+        "uk": "місяці",
+        "ru": "мес"
+    },
+    "more_than_year_ago": {
+        "en": "more than year ago",
+        "uk": "більше року тому",
+        "ru": "больше года назад"
+    },
+    "text_to_translate": {
+        "en": "text to translate",
+        "uk": "текст для перекладу",
+        "ru": "текст для перевода"
+    },
+    "warning": {
+        "en": "warning",
+        "uk": "попередження",
+        "ru": "предупреждение"
+    },
+    "error": {
+        "en": "error",
+        "uk": "помилка",
+        "ru": "ошибка"
+    },
+    "in": {
+        "en": "in",
+        "uk": "в",
+        "ru": "в"
+    },
+    "reminder": {
+        "en": "reminder",
+        "uk": "нагадування",
+        "ru": "напоминания"
+    },
+    "preserve_credentials": {
+        "en": "preserve credentials",
+        "uk": "запам'ятати дані авторизації",
+        "ru": "запомнить данные авторизации"
+    },
+    "try_again": {
+        "en": "try again",
+        "uk": "повторити спробу",
+        "ru": "повторить попытку"
+    },
+    "translation": {
+        "en": "translation",
+        "uk": "переклад",
+        "ru": "перевод"
+    },
+    "synonym": {
+        "en": "synonym",
+        "uk": "синонім",
+        "ru": "синоним"
+    },
+    "antonym": {
+        "en": "antonym",
+        "uk": "антонім",
+        "ru": "антоним"
+    },
+    "definition": {
+        "en": "definition",
+        "uk": "визначення",
+        "ru": "определение"
+    },
+    "example": {
+        "en": "example",
+        "uk": "приклад",
+        "ru": "пример"
+    },
+    "answer": {
+        "en": "answer",
+        "uk": "відповідь",
+        "ru": "ответ"
+    },
+    "all": {
+        "en": "all",
+        "uk": "усі",
+        "ru": "все"
+    },
+    "cards_per_session": {
+        "en": "cards per session",
+        "uk": "карток у сесії",
+        "ru": "карточек в сессии"
+    },
+    "cards_sorting": {
+        "en": "cards sorting",
+        "uk": "сортування карток",
+        "ru": "сортировка карточек"
+    },
+    "correct_answer": {
+        "en": "correct answer",
+        "uk": "вірна відповідь",
+        "ru": "верный ответ"
+    },
+    "your_answer": {
+        "en": "your answer",
+        "uk": "ваша відповідь",
+        "ru": "ваш ответ"
+    },
+    "correct": {
+        "en": "correct",
+        "uk": "вірно",
+        "ru": "верно"
+    },
+    "incorrect": {
+        "en": "incorrect",
+        "uk": "невірно",
+        "ru": "неверно"
+    },
+    "translate": {
+        "en": "translate",
+        "uk": "перекласти",
+        "ru": "перевести"
+    },
+    "learn": {
+        "en": "learn",
+        "uk": "вивчати",
+        "ru": "изучать"
+    },
+    "settings": {
+        "en": "settings",
+        "uk": "налаштування",
+        "ru": "настройки"
+    },
+    "plan": {
+        "en": "plan",
+        "uk": "план",
+        "ru": "план"
+    },
+    "unlimited": {
+        "en": "unlimited",
+        "uk": "необмежено",
+        "ru": "неограничено"
+    },
+    "per_month": {
+        "en": "per month",
+        "uk": "в місяць",
+        "ru": "в месяц"
+    },
+    "time_left": {
+        "en": "time left",
+        "uk": "залишилось",
+        "ru": "осталось"
+    },
+    "more_than_a_month": {
+        "en": "more than a month",
+        "uk": "більше місяця",
+        "ru": "больше месяца"
+    },
+    "on": {
+        "en": "on",
+        "uk": "увімкнено",
+        "ru": "включено"
+    },
+    "off": {
+        "en": "off",
+        "uk": "вимкнено",
+        "ru": "отключено"
+    },
+    "additional": {
+        "en": "additional",
+        "uk": "додатково",
+        "ru": "дополнительно"
+    },
+    "cut": {
+        "en": "cut",
+        "uk": "вирізати",
+        "ru": "вырезать"
+    },
+    "paste": {
+        "en": "paste",
+        "uk": "вставити",
+        "ru": "вставить"
+    },
+    "initialTab": {
+        "en": "Initial tab",
+        "uk": "Початкова вкладка",
+        "ru": "Начальная вкладка"
+    },
+    "OK": {
+        "en": "ОК"
+    },
+    "webpage": {
+        "en": "webpage",
+        "uk": "веб-сторінка",
+        "ru": "веб-страница"
+    },
+    "recentlyUsed": {
+        "en": "Recent",
+        "uk": "Нещодавні",
+        "ru": "Недавние"
+    }
+}

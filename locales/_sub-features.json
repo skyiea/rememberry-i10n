@@ -1,0 +1,47 @@
+{
+    "subTranslations": {
+        "en": "Translations",
+        "uk": "Переклади",
+        "ru": "Переводы"
+    },
+    "subLearningSessions": {
+        "en": "Learning sessions",
+        "uk": "Сесії вивчень",
+        "ru": "Сессии изучений"
+    },
+    "subSemantizations": {
+        "en": "Semantization methods",
+        "uk": "Методи семантизації",
+        "ru": "Методы семантизации"
+    },
+    "subCustomText": {
+        "en": "Translate custom text",
+        "uk": "Переклад довільного тексту",
+        "ru": "Перевод произвольного текста"
+    },
+    "subReminders": {
+        "en": "Reminders",
+        "uk": "Нагадування",
+        "ru": "Напоминания"
+    },
+    "subLearningModes": {
+        "en": "Learning modes",
+        "uk": "Режими вивчення",
+        "ru": "Режимы изучения"
+    },
+    "subNewCards": {
+        "en": "New cards",
+        "uk": "Нові картки",
+        "ru": "Новые карточки"
+    },
+    "subExportTo": {
+        "en": "Export to",
+        "uk": "Експорт в",
+        "ru": "Экспорт в"
+    },
+    "subTranslateSynNAnt": {
+        "en": "Translate synonyms & antonyms",
+        "uk": "Переклад синонімів і антонімів",
+        "ru": "Перевод синонимов и антонимов"
+    }
+}

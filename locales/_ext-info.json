@@ -1,0 +1,32 @@
+{
+    "ext_author": {
+        "en"    : "Serhii skye Muryhin, Myroslava Yurchyshyn",
+        "uk"    : "Сергій skye Муригін, Юрчишин Мирослава",
+        "ru"    : "Сергей skye Мурыгин, Юрчишин Мирослава"
+    },
+    "ext_short_name": {
+        "en"    : "Rememberry"
+    },
+    "ext_name": {
+        "en"    : "Rememberry - Translate and Memorize",
+        "uk"    : "Rememberry - Перекладайте та Запам'ятовуйте",
+        "ru"    : "Rememberry - Переводите и Запоминайте",
+        "pl"    : "Rememberry - Tłumaczcie i Zapamiętujcie",
+        "pt_BR" : "Rememberry - Traduzir e Memorizar",
+        "et"    : "Rememberry - Translator, Dictionary, TTS",
+        "ca"    : "Rememberry - Languages Vocabulary, Flashcards",
+        "fi"    : "Rememberry - Translate Selection & Memorize",
+        "sl"    : "Rememberry - Translate, Remember, Recall",
+        "zh_CN" : "Rememberry - 翻译和记住",
+        "zh_TW" : "Rememberry - 翻译和记住",
+        "ja"    : "Rememberry - 翻訳して暗記する"
+    },
+    "ext_description": {
+        "en"    : "Translate words and phrases while browsing the web, and easily replenish your foreign languages dictionary using flashcards.",
+        "sl"    : "Translate words and phrases while browsing the web, and easily expand your foreign languages vocabulary using flashcards.",
+        "uk"    : "Перекладайте слова та фрази під час перегляду веб-сторінок, та з легкістю вивчайте іноземні мови за допомогою двосторонніх карток.",
+        "ru"    : "Переводите слова и фразы во время просмотра веб-страниц, и с легкостью изучайте иностранные языки с помощью двусторонних карточек.",
+        "pl"    : "Tłumaczcie słowa i wyrazy podczas przeglądania stron internetowych I łatwo się uczcie języków obcych przy pomocy kart dwustronnych.",
+        "et"    : "Top translator and dictionary for English and Mandarin (100+ languages). Easily expand your dictionary using flashcards."
+    }
+}

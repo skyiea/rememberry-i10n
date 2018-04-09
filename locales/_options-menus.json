@@ -1,0 +1,32 @@
+{
+    "menuLanguages": {
+        "en": "Languages",
+        "uk": "Мови",
+        "ru": "Языки"
+    },
+    "menuTriggers": {
+        "en": "Triggers",
+        "uk": "Тригери",
+        "ru": "Триггеры"
+    },
+    "menuDecks": {
+        "en": "Decks",
+        "uk": "Колоди",
+        "ru": "Колоды"
+    },
+    "menuOther": {
+        "en": "Other",
+        "uk": "Інші",
+        "ru": "Другие"
+    },
+    "menuSubscription": {
+        "en": "Subscription",
+        "uk": "Підписка",
+        "ru": "Подписка"
+    },
+    "menuShare": {
+        "en": "Share",
+        "uk": "Поширити",
+        "ru": "Поделиться"
+    }
+}
