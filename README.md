@@ -11,5 +11,12 @@ At the moment we support next languages:
 - Russian
 
 
-Please be welcome to contribute if you found some issues, or want to help us
-with translations into other languages (even partial translations)!
+It is most welcome to contribute if you found some issue, or _want to help us
+with translations into other languages_ (even partial translations)!
+
+## How to contribute
+
+You can easily contribute through GitHub interface by opening any of
+[localization files](locales/) and clicking on Edit button (pencil) in the
+top right corner of the file. After making changes just follow the steps
+(buttons at the bottom) and we'll be notified about your contribution.
