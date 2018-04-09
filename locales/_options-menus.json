@@ -2,31 +2,37 @@
     "menuLanguages": {
         "en": "Languages",
         "uk": "Мови",
-        "ru": "Языки"
+        "ru": "Языки",
+        "zh_CN": "语言"
     },
     "menuTriggers": {
         "en": "Triggers",
         "uk": "Тригери",
-        "ru": "Триггеры"
+        "ru": "Триггеры",
+        "zh_CN": "触发器"
     },
     "menuDecks": {
         "en": "Decks",
         "uk": "Колоди",
-        "ru": "Колоды"
+        "ru": "Колоды",
+        "zh_CN": "甲板"
     },
     "menuOther": {
         "en": "Other",
         "uk": "Інші",
-        "ru": "Другие"
+        "ru": "Другие",
+        "zh_CN": "其它"
     },
     "menuSubscription": {
         "en": "Subscription",
         "uk": "Підписка",
-        "ru": "Подписка"
+        "ru": "Подписка",
+        "zh_CN": "订阅"
     },
     "menuShare": {
         "en": "Share",
         "uk": "Поширити",
-        "ru": "Поделиться"
+        "ru": "Поделиться",
+        "zh_CN": "分享"
     }
 }

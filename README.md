@@ -9,6 +9,7 @@ At the moment we support next languages:
 - English
 - Ukrainian
 - Russian
+- Chinese Simplified (thanks to [Gapen](https://github.com/pjpv))
 
 It is most welcome to contribute if you found some issue, or _want to help us
 with translations into other languages_ (even partial translations)!
