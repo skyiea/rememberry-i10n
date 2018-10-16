@@ -3,112 +3,131 @@
         "en": "Actions",
         "uk": "Дії",
         "ru": "Действия",
-        "zh_CN": "操作"
+        "zh_CN": "操作",
+        "tr":"hareketler"
     },
     "deckMenuActions_activate": {
         "en": "Make targeted",
         "uk": "Зробити цільовою",
         "ru": "Сделать целевой",
-        "zh_CN": "设为默认"
+        "zh_CN": "设为默认",
+        "tr":"hedef belirle"
     },
     "deckMenuActions_activate_tip": {
         "en": "Save new cards to this deck",
         "uk": "Зберігати нові картки в цю колоду",
         "ru": "Сохранять новые карточки в эту колоду",
-        "zh_CN": "保存新卡片到这个卡组"
+        "zh_CN": "保存新卡片到这个卡组",
+        "tr":"yeni kartı bu desteye ekle"
     },
     "deckMenuActions_activated": {
         "en": "Targeted",
         "uk": "Цільова",
         "ru": "Целевая",
-        "zh_CN": "默认"
+        "zh_CN": "默认",
+        "tr":"hedeflenen"
     },
     "deckMenuActions_activated_tip": {
         "en": "New cards will be saved to this deck",
         "uk": "Нові картки зберігатимуться в цю колоду",
         "ru": "Новые карточки будут сохраняться в эту колоду",
-        "zh_CN": "新卡片将被保存到该卡组"
+        "zh_CN": "新卡片将被保存到该卡组",
+        "tr":"yani kartlar bu desteye kayıt edildi"
     },
     "deckMenuActions_create": {
         "en": "Create deck",
         "uk": "Створити колоду",
         "ru": "Создать колоду",
-        "zh_CN": "创建卡组"
+        "zh_CN": "创建卡组",
+        "tr":"yeni deste oluştur"
     },
     "deckMenuActions_remove": {
         "en": "Remove deck",
         "uk": "Видалити колоду",
         "ru": "Удалить колоду",
-        "zh_CN": "删除卡组"
+        "zh_CN": "删除卡组",
+        "tr":"desteyi sil"
     },
     "deckMenuActions_remove_last_tip": {
         "en": "Can't remove last deck",
         "uk": "Неможливо видалити останню колоду",
         "ru": "Нельзя удалить последнюю колоду",
-        "zh_CN": "无法删除最后一个卡组"
+        "zh_CN": "无法删除最后一个卡组",
+        "tr":"son desteyi silme"
     },
     "deckMenuActions_remove_target_tip": {
         "en": "Can't remove targeted deck",
         "uk": "Неможливо видалити цільову колоду",
         "ru": "Невозможно удалить целевую колоду",
-        "zh_CN": "无法移除目标卡组"
+        "zh_CN": "无法移除目标卡组",
+        "tr":"hedeflenen desteyi silme"
     },
     "deckMenuActions_import": {
         "en": "Import",
         "uk": "Імпортувати",
         "ru": "Импортировать",
-        "zh_CN": "导入"
+        "zh_CN": "导入",
+        "tr":"içe aktar"
     },
     "deckMenuActions_import_tip": {
         "en": "JSON, CSV",
-        "zh_CN": "JSON，CSV"
+        "zh_CN": "JSON，CSV",
+        "tr":"JSON, CSV"
     },
     "deckMenuActions_export_disabled_tip": {
         "en": "Deck is empty",
         "uk": "Колода пуста",
         "ru": "Колода пустая",
-        "zh_CN": "卡组是空的"
+        "zh_CN": "卡组是空的",
+        "tr":"Deste boş"
     },
     "deckMenuActions_export": {
         "en": "Export",
         "uk": "Експортувати",
         "ru": "Экспортировать",
-        "zh_CN": "退出"
+        "zh_CN": "退出",
+        "tr":"dışa aktar"
     },
     "deckMenuActions_exportAs": {
         "en": "Save as",
         "uk": "Зберегти як",
         "ru": "Сохранить как",
-        "zh_CN": "另存为..."
+        "zh_CN": "另存为...",
+        "tr":"kayıt et"
     },
     "deckMenuActions_export_anki": {
         "en": "Compatible with Anki",
         "uk": "Сумісний з Anki",
         "ru": "Совместимый с Anki",
-        "zh_CN": "与Anki兼容"
+        "zh_CN": "与Anki兼容",
+        "tr":"Anki ile uyumludur"
     },
     "deckMenuActions_backup": {
         "en": "Backup",
         "uk": "Резервна копія",
         "ru": "Резервнаю копия",
-        "zh_CN": "备份"
+        "zh_CN": "备份",
+        "tr":"Yedek"
     },
     "deckMenuActions_backup_create": {
         "en": "Create",
         "uk": "Створити",
         "ru": "Создать",
-        "zh_CN": "创建"
+        "zh_CN": "创建",
+        "tr":"Oluştur"
     },
     "deckMenuActions_backup_create_tip": {
         "en": "Save all your decks and learning progress",
         "uk": "Збережіть всі свої колоди і прогрес",
         "ru": "Сохраните все свои колоды и прогресс",
-        "zh_CN": "保存你所有的套牌和学习进度"
+        "zh_CN": "保存你所有的套牌和学习进度",
+        "tr":"Tüm desteğinizi kaydedin ve ilerlemeyi öğrenin"
     },
     "deckMenuActions_backup_restore": {
         "en": "Restore",
         "uk": "Відновити",
         "ru": "Восстановить",
-        "zh_CN": "恢复"
+        "zh_CN": "恢复",
+        "tr":"Onar"
     }
 }
