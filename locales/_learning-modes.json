@@ -3,24 +3,28 @@
         "en": "classic",
         "uk": "класичний",
         "ru": "классический",
-        "zh_CN": "经典"
+        "zh_CN": "经典",
+        "tr":"klasik"
     },
     "reverse": {
         "en": "reverse",
         "uk": "реверсний",
         "ru": "реверсный",
-        "zh_CN": "反向"
+        "zh_CN": "反向",
+        "tr":"tersine"
     },
     "typing": {
         "en": "typing",
         "uk": "друк",
         "ru": "печать",
-        "zh_CN": "拼写"
+        "zh_CN": "拼写",
+        "tr":"yazarak"
     },
     "listening": {
         "en": "listening",
         "uk": "прослуховування",
         "ru": "прослушивания",
-        "zh_CN": "听力"
+        "zh_CN": "听力",
+        "tr":"dinleyerek"
     }
 }
