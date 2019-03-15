@@ -3,634 +3,740 @@
         "en": "languages",
         "uk": "мови",
         "ru": "языки",
-        "zh_CN": "语言"
+        "zh_CN": "语言",
+		"pt_BR": "idiomas"
     },
     "source_language": {
         "en": "source language",
         "uk": "мова оригіналу",
         "ru": "язык оригинала",
-        "zh_CN": "源语言"
+        "zh_CN": "源语言",
+		"pt_BR": "idioma de origem"
     },
     "target_language": {
         "en": "target language",
         "uk": "мова перекладу",
         "ru": "язык перевода",
-        "zh_CN": "目标语言"
+        "zh_CN": "目标语言",
+		"pt_BR": "idioma alvo"
     },
     "modifiers": {
         "en": "modifiers",
         "uk": "модифікатори",
         "ru": "модификаторы",
-        "zh_CN": "修饰符"
+        "zh_CN": "修饰符",
+		"pt_BR": "modificadores"
     },
     "trigger_action": {
         "en": "trigger action",
         "uk": "тип запуску",
         "ru": "тип запуска",
-        "zh_CN": "触发行为"
+        "zh_CN": "触发行为",
+		"pt_BR": "acionar ação"
     },
     "triggers": {
         "en": "triggers",
         "uk": "тригери",
         "ru": "триггеры",
-        "zh_CN": "触发器"
+        "zh_CN": "触发器",
+		"pt_BR": "gatilhos"
     },
     "key_modifier": {
         "en": "key modifier",
         "uk": "клавіша модифікатор",
         "ru": "клавиша модификатор",
-        "zh_CN": "功能键"
+        "zh_CN": "功能键",
+		"pt_BR": "modificador chave"
     },
     "detect": {
         "en": "detect",
         "uk": "автовизначення",
         "ru": "автоопределение",
-        "zh_CN": "检测"
+        "zh_CN": "检测",
+		"pt_BR": "detectar"
     },
     "save": {
         "en": "save",
         "uk": "зберегти",
         "ru": "сохранить",
-        "zh_CN": "保存"
+        "zh_CN": "保存",
+		"pt_BR": "salvar"
     },
     "sentence": {
         "en": "sentence",
         "uk": "речення",
         "ru": "предложения",
-        "zh_CN": "句子"
+        "zh_CN": "句子",
+		"pt_BR": "frase"
     },
     "custom": {
         "en": "custom",
         "uk": "інший",
         "ru": "другой",
-        "zh_CN": "自定义"
+        "zh_CN": "自定义",
+		"pt_BR": "personalizado"
     },
     "loading": {
         "en": "loading",
         "uk": "завантаження",
         "ru": "загрузка",
-        "zh_CN": "加载"
+        "zh_CN": "加载",
+		"pt_BR": "carregando"
     },
     "show_answer": {
         "en": "show answer",
         "uk": "показати відповідь",
         "ru": "показать ответ",
-        "zh_CN": "显示答案"
+        "zh_CN": "显示答案",
+		"pt_BR": "mostrar resposta"
     },
     "easy": {
         "en": "easy",
         "uk": "легко",
         "ru": "легко",
-        "zh_CN": "简单"
+        "zh_CN": "简单",
+		"pt_BR": "fácil"
     },
     "normal": {
         "en": "normal",
         "uk": "середньо",
         "ru": "средне",
-        "zh_CN": "正常"
+        "zh_CN": "正常",
+		"pt_BR": "normal"
     },
     "hard": {
         "en": "hard",
         "uk": "складно",
         "ru": "сложно",
-        "zh_CN": "困难"
+        "zh_CN": "困难",
+		"pt_BR": "difícil"
     },
     "decks": {
         "en": "decks",
         "uk": "колоди",
         "ru": "колоды",
-        "zh_CN": "卡组"
+        "zh_CN": "卡组",
+		"pt_BR": "baralhos"
     },
     "deck": {
         "en": "deck",
         "uk": "колода",
         "ru": "колода",
-        "zh_CN": "卡组"
+        "zh_CN": "卡组",
+		"pt_BR": "baralho"
     },
     "deck_description": {
         "en": "deck description",
         "uk": "опис колоди",
         "ru": "описание колоды",
-        "zh_CN": "卡组说明"
+        "zh_CN": "卡组说明",
+		"pt_BR": "descrição do baralho"
     },
     "login": {
         "en": "login",
         "uk": "логін",
         "ru": "логин",
-        "zh_CN": "登录"
+        "zh_CN": "登录",
+		"pt_BR": "iniciar sessão"
     },
     "password": {
         "en": "password",
         "uk": "пароль",
         "ru": "пароль",
-        "zh_CN": "密码"
+        "zh_CN": "密码",
+		"pt_BR": "senha"
     },
     "log_in": {
         "en": "log in",
         "uk": "увійти",
         "ru": "войти",
-        "zh_CN": "登录"
+        "zh_CN": "登录",
+		"pt_BR": "iniciar sessão"
     },
     "log_out": {
         "en": "log out",
         "uk": "вийти",
         "ru": "выйти",
-        "zh_CN": "登出"
+        "zh_CN": "登出",
+		"pt_BR": "finalizar sessão"
     },
     "back": {
         "en": "back",
         "uk": "назад",
         "ru": "назад",
-        "zh_CN": "后退"
+        "zh_CN": "后退",
+		"pt_BR": "voltar"
     },
     "model": {
         "en": "model",
         "uk": "модель",
         "ru": "модель",
-        "zh_CN": "模型"
+        "zh_CN": "模型",
+		"pt_BR": "modelo"
     },
     "export": {
         "en": "export",
         "uk": "експортувати",
         "ru": "экспортировать",
-        "zh_CN": "导出"
+        "zh_CN": "导出",
+		"pt_BR": "exportar"
     },
     "expand": {
         "en": "expand",
         "uk": "розгорнути",
         "ru": "развернуть",
-        "zh_CN": "扩大"
+        "zh_CN": "扩大,
+		"pt_BR": "expandir"
     },
     "collapse": {
         "en": "collapse",
         "uk": "згорнути",
         "ru": "свернуть",
-        "zh_CN": "折叠"
+        "zh_CN": "折叠",
+		"pt_BR": "recolher"
     },
     "original_term": {
         "en": "original term",
         "uk": "оригінальний термін",
         "ru": "оригинальное выражение",
-        "zh_CN": "原文"
+        "zh_CN": "原文",
+		"pt_BR": "termo original"
     },
     "translations": {
         "en": "translations",
         "uk": "переклади",
         "ru": "переводы",
-        "zh_CN": "其它语言版本"
+        "zh_CN": "其它语言版本",
+		"pt_BR": "traduções"
     },
     "card_edit": {
         "en": "card edit",
         "uk": "редагування картки",
         "ru": "редактирования карточки",
-        "zh_CN": "卡片编辑"
+        "zh_CN": "卡片编辑",
+		"pt_BR": "editar cartão"
     },
     "other": {
         "en": "other",
         "uk": "інші",
         "ru": "другие",
-        "zh_CN": "其他"
+        "zh_CN": "其他",
+		""pt_BR": "outros"
     },
     "undo": {
         "en": "undo",
         "uk": "відмінити останню дію",
         "ru": "отменить последнее действие",
-        "zh_CN": "还原"
+        "zh_CN": "还原",
+		"pt_BR": "desfazer"
     },
     "filter": {
         "en": "filter",
         "uk": "фільтр",
         "ru": "фильтр",
-        "zh_CN": "过滤器"
+        "zh_CN": "过滤器",
+		"pt_BR": "filtro"
     },
     "cancel": {
         "en": "cancel",
         "uk": "скасувати",
         "ru": "отменить",
-        "zh_CN": "取消"
+        "zh_CN": "取消",
+		"pt_BR": "cancelar"
     },
     "delete": {
         "en": "delete",
         "uk": "видалити",
         "ru": "удалить",
-        "zh_CN": "删除"
+        "zh_CN": "删除",
+		"pt_BR": "excluir"
     },
     "edit": {
         "en": "edit",
         "uk": "редагувати",
         "ru": "редактировать",
-        "zh_CN": "编辑"
+        "zh_CN": "编辑",
+		"pt_BR": "editar"
     },
     "add_new_translation": {
         "en": "add new translation",
         "uk": "додати новий переклад",
         "ru": "добавить новый перевод",
-        "zh_CN": "添加新的翻译"
+        "zh_CN": "添加新的翻译",
+		"pt_BR": "adicionar nova tradução"
     },
     "check_all": {
         "en": "check all",
         "uk": "виділити всі",
         "ru": "выделить все",
-        "zh_CN": "全选"
+        "zh_CN": "全选",
+		"pt_BR": "verificar tudo"
     },
     "sort_direction": {
         "en": "sort direction",
         "uk": "напрямок сортування",
         "ru": "направление сортировки",
-        "zh_CN": "排序方向"
+        "zh_CN": "排序方向",
+		"pt_BR": "direção de ordenação"
     },
     "new_first": {
         "en": "new first",
         "uk": "новизною",
         "ru": "новизне",
-        "zh_CN": "按添加顺序"
+        "zh_CN": "按添加顺序",
+		"pt_BR": "novos primeiro"
     },
     "alphabetically": {
         "en": "alphabetically",
         "uk": "алфавітом",
         "ru": "алфавиту",
-        "zh_CN": "按字母顺序"
+        "zh_CN": "按字母顺序",
+		"pt_BR": "alfabeticamente"
     },
     "most_repeated": {
         "en": "most repeated",
         "uk": "к-стю повторень",
         "ru": "к-сву повторений",
-        "zh_CN": "按重复次数"
+        "zh_CN": "按重复次数",
+		"pt_BR": "mais repetidos"
     },
     "most_useful": {
         "en": "most useful",
         "uk": "корисністю",
         "ru": "полезности",
-        "zh_CN": "按有效性"
+        "zh_CN": "按有效性",
+		"pt_BR": "mais úteis"
     },
     "sort_by": {
         "en": "sort by",
         "uk": "сортувати за",
         "ru": "сортировать по",
-        "zh_CN": "排序方式"
+        "zh_CN": "排序方式",
+		"pt_BR": "classificar por"
     },
     "forward": {
         "en": "forward",
         "uk": "вперед",
         "ru": "вперед",
-        "zh_CN": "前进"
+        "zh_CN": "前进",
+		"pt_BR": "adiante"
     },
     "of": {
         "en": "of",
         "uk": "з",
         "ru": "с",
-        "zh_CN": "共"
+        "zh_CN": "共",
+		"pt_BR": "de"
     },
     "popup": {
         "en": "popup",
         "uk": "вікно додатку",
         "ru": "окно приложения",
-        "zh_CN": "弹出式窗口"
+        "zh_CN": "弹出式窗口",
+		"pt_BR": "popup"
     },
     "popup_type": {
         "en": "popup type",
         "uk": "тип вікна",
         "ru": "тип окна",
-        "zh_CN": "弹窗默认模式"
+        "zh_CN": "弹窗默认模式",
+		"pt_BR": "tipos de popup"
     },
     "number_of_available_cards": {
         "en": "number of available cards",
         "uk": "загальну кількість доступних карток",
         "ru": "общее количество доступных карточек",
-        "zh_CN": "可用卡片的数量"
+        "zh_CN": "可用卡片的数量",
+		"pt_BR": "número de cartões disponíveis"
     },
     "number_of_available_cards_in_active_deck": {
         "en": "number of available cards in active deck",
         "uk": "кількість доступних карток в активній колоді",
         "ru": "количество доступных карточек в активной колоде",
-        "zh_CN": "当前卡组中可用卡片的数量"
+        "zh_CN": "当前卡组中可用卡片的数量",
+		"pt_BR": "número de cartões disponíveis no baralho ativo"
     },
     "reminders": {
         "en": "reminders",
         "uk": "нагадування",
         "ru": "напоминания",
-        "zh_CN": "提醒"
+        "zh_CN": "提醒",
+		"pt_BR": "lembretes"
     },
     "enable": {
         "en": "enable",
         "uk": "увімкнути/вимкнути",
         "ru": "включить/выключить",
-        "zh_CN": "启用"
+        "zh_CN": "启用",
+		"pt_BR": "habilitar"
     },
     "ripened_cards": {
         "en": "available cards",
         "uk": "доступних карток",
         "ru": "доступных карточек",
-        "zh_CN": "可用的卡片"
+        "zh_CN": "可用的卡片",
+		"pt_BR": "cartões disponíveis"
     },
     "total_cards": {
         "en": "total cards",
         "uk": "всього карток",
         "ru": "всего карточек",
-        "zh_CN": "全部卡片"
+        "zh_CN": "全部卡片",
+		"pt_BR": "cartões totais"
     },
     "learning_mode": {
         "en": "learning mode",
         "uk": "режим вивчення",
         "ru": "режим изучения",
-        "zh_CN": "学习模式"
+        "zh_CN": "学习模式",
+		"pt_BR": "modo de aprendizagem"
     },
     "hotkey": {
         "en": "hotkey",
         "uk": "гаряча клавіша",
         "ru": "горячая клавиша",
-        "zh_CN": "快捷键"
+        "zh_CN": "快捷键",
+		"pt_BR": "atalho"
     },
     "start": {
         "en": "start",
         "uk": "старт",
         "ru": "старт",
-        "zh_CN": "开始"
+        "zh_CN": "开始",
+		"pt_BR": "começar"
     },
     "learned": {
         "en": "learned",
         "uk": "додано",
         "ru": "добавлено",
-        "zh_CN": "已学习"
+        "zh_CN": "已学习",
+		""pt_BR": "aprendido"
     },
     "repeated": {
         "en": "repeated",
         "uk": "повторено",
         "ru": "повторено",
-        "zh_CN": "重复"
+        "zh_CN": "重复",
+		"pt_BR": "repetido"
     },
     "return": {
         "en": "return",
         "uk": "повернутись",
         "ru": "вернуться",
-        "zh_CN": "返回"
+        "zh_CN": "返回",
+		"pt_BR": "retornar"
     },
     "just_now": {
         "en": "just now",
         "uk": "щойно",
         "ru": "только что",
-        "zh_CN": "不久前"
+        "zh_CN": "不久前",
+		"pt_BR": "há pouco"
     },
     "ago": {
         "en": "ago",
         "uk": "тому",
         "ru": "назад",
-        "zh_CN": "之前"
+        "zh_CN": "之前",
+		"pt_BR": "atrás"
     },
     "seconds": {
         "en": "seconds",
         "uk": "секунди",
         "ru": "сек",
-        "zh_CN": "秒"
+        "zh_CN": "秒",
+		"pt_BR": "segundos"
     },
     "minutes": {
         "en": "minutes",
         "uk": "хвилини",
         "ru": "мин",
-        "zh_CN": "分钟"
+        "zh_CN": "分钟",
+		"pt_BR": "minutos"
     },
     "hours": {
         "en": "hours",
         "uk": "години",
         "ru": "ч",
-        "zh_CN": "小时"
+        "zh_CN": "小时",
+		"pt_BR": "horas"
     },
     "days": {
         "en": "days",
         "uk": "дні",
         "ru": "дн",
-        "zh_CN": "天"
+        "zh_CN": "天",
+		"pt_BR": "dias"
     },
     "months": {
         "en": "months",
         "uk": "місяці",
         "ru": "мес",
-        "zh_CN": "月"
+        "zh_CN": "月",
+		"pt_BR": "meses"
     },
     "more_than_year_ago": {
         "en": "more than year ago",
         "uk": "більше року тому",
         "ru": "больше года назад",
-        "zh_CN": "一年前"
+        "zh_CN": "一年前",
+		"pt_BR": "mais de um ano atrás"
     },
     "text_to_translate": {
         "en": "text to translate",
         "uk": "текст для перекладу",
         "ru": "текст для перевода",
-        "zh_CN": "文字翻译"
+        "zh_CN": "文字翻译",
+		"pt_BR": "texto para traduzir"
     },
     "warning": {
         "en": "warning",
         "uk": "попередження",
         "ru": "предупреждение",
-        "zh_CN": "注意"
+        "zh_CN": "注意",
+		"pt_BR": "alerta"
     },
     "error": {
         "en": "error",
         "uk": "помилка",
         "ru": "ошибка",
-        "zh_CN": "错误"
+        "zh_CN": "错误",
+		"pt_BR": "erro"
     },
     "in": {
         "en": "in",
         "uk": "в",
         "ru": "в",
-        "zh_CN": "在"
+        "zh_CN": "在",
+		"pt_BR": "em"
     },
     "reminder": {
         "en": "reminder",
         "uk": "нагадування",
         "ru": "напоминания",
-        "zh_CN": "提醒"
+        "zh_CN": "提醒",
+		"pt_BR": "lembrete"
     },
     "preserve_credentials": {
         "en": "preserve credentials",
         "uk": "запам'ятати дані авторизації",
         "ru": "запомнить данные авторизации",
-        "zh_CN": "保留凭据"
+        "zh_CN": "保留凭据",
+		"pt_BR": "preservar credenciais"
     },
     "try_again": {
         "en": "try again",
         "uk": "повторити спробу",
         "ru": "повторить попытку",
-        "zh_CN": "重试"
+        "zh_CN": "重试",
+		"pt_BR": "tentar novamente"
     },
     "translation": {
         "en": "translation",
         "uk": "переклад",
         "ru": "перевод",
-        "zh_CN": "翻译"
+        "zh_CN": "翻译",
+		"pt_BR": "tradução"
     },
     "synonym": {
         "en": "synonym",
         "uk": "синонім",
         "ru": "синоним",
-        "zh_CN": "代名词"
+        "zh_CN": "代名词",
+		"pt_BR": "sinônimo"
     },
     "antonym": {
         "en": "antonym",
         "uk": "антонім",
         "ru": "антоним",
-        "zh_CN": "反义词"
+        "zh_CN": "反义词",
+		"pt_BR": "antônimo"
     },
     "definition": {
         "en": "definition",
         "uk": "визначення",
         "ru": "определение",
-        "zh_CN": "这是定义"
+        "zh_CN": "这是定义",
+		"pt_BR": "definição"
     },
     "example": {
         "en": "example",
         "uk": "приклад",
         "ru": "пример",
-        "zh_CN": "例子"
+        "zh_CN": "例子",
+		"pt_BR": "exemplo"
     },
     "answer": {
         "en": "answer",
         "uk": "відповідь",
         "ru": "ответ",
-        "zh_CN": "答案"
+        "zh_CN": "答案",
+		"pt_BR": "resposta"
     },
     "all": {
         "en": "all",
         "uk": "усі",
         "ru": "все",
-        "zh_CN": "所有"
+        "zh_CN": "所有",
+		"pt_BR": "tudo"
     },
     "cards_per_session": {
         "en": "cards per session",
         "uk": "карток у сесії",
         "ru": "карточек в сессии",
-        "zh_CN": "每个卡片会话"
+        "zh_CN": "每个卡片会话",
+		"pt_BR": "cartões por sessão"
     },
     "cards_sorting": {
         "en": "cards sorting",
         "uk": "сортування карток",
         "ru": "сортировка карточек",
-        "zh_CN": "卡片排序"
+        "zh_CN": "卡片排序",
+		"pt_BR": "classificação de cartões"
     },
     "correct_answer": {
         "en": "correct answer",
         "uk": "вірна відповідь",
         "ru": "верный ответ",
-        "zh_CN": "正确答案"
+        "zh_CN": "正确答案",
+		"pt_BR": "resposta correta"
     },
     "your_answer": {
         "en": "your answer",
         "uk": "ваша відповідь",
         "ru": "ваш ответ",
-        "zh_CN": "你的答案"
+        "zh_CN": "你的答案",
+		"pt_BR": "sua resposta"
     },
     "correct": {
         "en": "correct",
         "uk": "вірно",
         "ru": "верно",
-        "zh_CN": "确定"
+        "zh_CN": "确定",
+		"pt_BR": "correta"
     },
     "incorrect": {
         "en": "incorrect",
         "uk": "невірно",
         "ru": "неверно",
-        "zh_CN": "不正确"
+        "zh_CN": "不正确",
+		"pt_BR": "incorreta"
     },
     "translate": {
         "en": "translate",
         "uk": "перекласти",
         "ru": "перевести",
-        "zh_CN": "翻译"
+        "zh_CN": "翻译",
+		"pt_BR": "traduzir"
     },
     "learn": {
         "en": "learn",
         "uk": "вивчати",
         "ru": "изучать",
-        "zh_CN": "学习"
+        "zh_CN": "学习",
+		"pt_BR": "aprender"
     },
     "settings": {
         "en": "settings",
         "uk": "налаштування",
         "ru": "настройки",
-        "zh_CN": "设置"
+        "zh_CN": "设置",
+		"pt_BR": "configurações"
     },
     "plan": {
         "en": "plan",
         "uk": "план",
         "ru": "план",
-        "zh_CN": "计划"
+        "zh_CN": "计划",
+		"pt_BR": "plano"
     },
     "unlimited": {
         "en": "unlimited",
         "uk": "необмежено",
         "ru": "неограничено",
-        "zh_CN": "无限"
+        "zh_CN": "无限",
+		"pt_BR": "ilimitado"
     },
     "per_month": {
         "en": "per month",
         "uk": "в місяць",
         "ru": "в месяц",
-        "zh_CN": "每月"
+        "zh_CN": "每月",
+		"pt_BR": "por mês"
     },
     "time_left": {
         "en": "time left",
         "uk": "залишилось",
         "ru": "осталось",
-        "zh_CN": "剩余时间"
+        "zh_CN": "剩余时间",
+		"pt_BR": "tempo restante"
     },
     "more_than_a_month": {
         "en": "more than a month",
         "uk": "більше місяця",
         "ru": "больше месяца",
-        "zh_CN": "超过一个月"
+        "zh_CN": "超过一个月",
+		"pt_BR": "mais de um mês"
     },
     "on": {
         "en": "on",
         "uk": "увімкнено",
         "ru": "включено",
-        "zh_CN": "开"
+        "zh_CN": "开",
+		"pt_BR": "habilitado"
     },
     "off": {
         "en": "off",
         "uk": "вимкнено",
         "ru": "отключено",
-        "zh_CN": "关"
+        "zh_CN": "关",
+		"pt_BR": "desabilitado"
     },
     "additional": {
         "en": "additional",
         "uk": "додатково",
         "ru": "дополнительно",
-        "zh_CN": "附加"
+        "zh_CN": "附加",
+		"pt_BR": "adicionais"
     },
     "cut": {
         "en": "cut",
         "uk": "вирізати",
         "ru": "вырезать",
-        "zh_CN": "剪切"
+        "zh_CN": "剪切",
+		"pt_BR": "recortar"
     },
     "paste": {
         "en": "paste",
         "uk": "вставити",
         "ru": "вставить",
-        "zh_CN": "粘贴"
+        "zh_CN": "粘贴",
+		"pt_BR": "colar"
     },
     "initialTab": {
         "en": "Initial tab",
         "uk": "Початкова вкладка",
         "ru": "Начальная вкладка",
-        "zh_CN": "初始选项卡"
+        "zh_CN": "初始选项卡",
+		"pt_BR": "aba inicial"
     },
     "OK": {
         "en": "ОК",
-        "zh_CN": "确定"
+        "zh_CN": "确定",
+		"pt_BR": "Ok"
     },
     "webpage": {
         "en": "webpage",
         "uk": "веб-сторінка",
         "ru": "веб-страница",
-        "zh_CN": "网页"
+        "zh_CN": "网页",
+		"pt_BR": "página"
     },
     "recentlyUsed": {
         "en": "Recent",
         "uk": "Нещодавні",
         "ru": "Недавние",
-        "zh_CN": "最近"
+        "zh_CN": "最近",
+		"pt_BR": "Recente"
     }
 }

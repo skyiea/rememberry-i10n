@@ -2,10 +2,12 @@
     "ext_author": {
         "en": "Serhii skye Muryhin, Myroslava Yurchyshyn",
         "uk": "Сергій skye Муригін, Юрчишин Мирослава",
-        "ru": "Сергей skye Мурыгин, Юрчишин Мирослава"
+        "ru": "Сергей skye Мурыгин, Юрчишин Мирослава",
+		"pt_BR": "Serhii skye Muryhin, Myroslava Yurchyshyn"
     },
     "ext_short_name": {
         "en": "Rememberry"
+		"pt_BR": "Rememberry"
     },
     "ext_name": {
         "en": "Rememberry - Translate and Memorize",
@@ -27,6 +29,7 @@
         "uk": "Перекладайте слова та фрази під час перегляду веб-сторінок, та з легкістю вивчайте іноземні мови за допомогою двосторонніх карток.",
         "ru": "Переводите слова и фразы во время просмотра веб-страниц, и с легкостью изучайте иностранные языки с помощью двусторонних карточек.",
         "pl": "Tłumaczcie słowa i wyrazy podczas przeglądania stron internetowych I łatwo się uczcie języków obcych przy pomocy kart dwustronnych.",
+		"pt_BR": "Traduza palavras e frases enquanto navega na internet, e expanda facilmente seu vocabulário em idiomas estrangeiros utilizando flashcards."
         "et": "Top translator and dictionary for English and Mandarin (100+ languages). Easily expand your dictionary using flashcards.",
         "zh_CN": "在浏览网页时翻译单词和短语，并使用抽认卡轻松补充您的外语词典。"
     }

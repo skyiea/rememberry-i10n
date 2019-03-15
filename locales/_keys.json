@@ -3,18 +3,21 @@
         "en": "none",
         "uk": "відсутній",
         "ru": "нету",
-        "zh_CN": "无"
+        "zh_CN": "无",
+		"pt_BR": "nenhum(a)"
     },
     "click": {
         "en": "click",
         "uk": "клік",
         "ru": "клик",
-        "zh_CN": "点击"
+        "zh_CN": "点击",
+		"pt_BR": "clique"
     },
     "dblclick": {
         "en": "double-click",
         "uk": "подвійний клік",
         "ru": "двойной клик",
-        "zh_CN": "双击"
+        "zh_CN": "双击",
+		"pt_BR": "clique duplo"
     }
 }
