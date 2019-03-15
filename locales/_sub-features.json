@@ -3,54 +3,63 @@
         "en": "Translations",
         "uk": "Переклади",
         "ru": "Переводы",
-        "zh_CN": "其它语言版本"
+        "zh_CN": "其它语言版本",
+		"pt_BR": "Traduções"
     },
     "subLearningSessions": {
         "en": "Learning sessions",
         "uk": "Сесії вивчень",
         "ru": "Сессии изучений",
-        "zh_CN": "学习课程"
+        "zh_CN": "学习课程",
+		"pt_BR": "Sessões de aprendizagem"
     },
     "subSemantizations": {
         "en": "Semantization methods",
         "uk": "Методи семантизації",
         "ru": "Методы семантизации",
-        "zh_CN": "语义化方法"
+        "zh_CN": "语义化方法",
+		"pt_BR": "Métodos de semantização"
     },
     "subCustomText": {
         "en": "Translate custom text",
         "uk": "Переклад довільного тексту",
         "ru": "Перевод произвольного текста",
-        "zh_CN": "翻译自定义文本"
+        "zh_CN": "翻译自定义文本",
+		"pt_BR": "Traduzir texto personalizado"
     },
     "subReminders": {
         "en": "Reminders",
         "uk": "Нагадування",
         "ru": "Напоминания",
-        "zh_CN": "提醒"
+        "zh_CN": "提醒",
+		"pt_BR": "Lembretes"
     },
     "subLearningModes": {
         "en": "Learning modes",
         "uk": "Режими вивчення",
         "ru": "Режимы изучения",
-        "zh_CN": "学习模式"
+        "zh_CN": "学习模式",
+		"pt_BR": "Modos de aprendizagem"
     },
     "subNewCards": {
         "en": "New cards",
         "uk": "Нові картки",
         "ru": "Новые карточки",
-        "zh_CN": "新卡片"
+        "zh_CN": "新卡片",
+		"pt_BR": "Novos cartões"
     },
     "subExportTo": {
         "en": "Export to",
         "uk": "Експорт в",
         "ru": "Экспорт в",
-        "zh_CN": "导出到："
+        "zh_CN": "导出到：",
+		"pt_BR": "Exportar para"
     },
     "subTranslateSynNAnt": {
         "en": "Translate synonyms & antonyms",
         "uk": "Переклад синонімів і антонімів",
         "ru": "Перевод синонимов и антонимов",
-        "zh_CN": "翻译同义词和反义词"
+        "zh_CN": "翻译同义词和反义词",
+		"pt_BR": "Traduzir sinônimos e antônimos"
     }
 }
