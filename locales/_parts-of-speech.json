@@ -4,65 +4,76 @@
         "uk": "іменник",
         "ru": "имя существительное",
         "zh_CN": "名词"
+        "ja": "名詞"
     },
     "interjection": {
         "en": "interjection",
         "uk": "вигук",
         "ru": "возглас",
         "zh_CN": "感叹词 "
+        "ja": "間投詞"
     },
     "verb": {
         "en": "verb",
         "uk": "дієслово",
         "ru": "глагол",
         "zh_CN": "动词"
+        "ja": "動詞"
     },
     "adjective": {
         "en": "adjective",
         "uk": "прикметник",
         "ru": "имя прилагательное",
         "zh_CN": "形容词"
+        "ja": "形容詞"
     },
     "adverb": {
         "en": "adverb",
         "uk": "прислівник",
         "ru": "наречие",
         "zh_CN": "副词"
+        "ja": "副詞"
     },
     "preposition": {
         "en": "preposition",
         "uk": "прийменник",
         "ru": "предлог",
         "zh_CN": "起始位置"
+        "ja": "前置詞"
     },
     "conjunction": {
         "en": "conjunction",
         "uk": "сполучник",
         "ru": "союз",
         "zh_CN": "连词"
+        "ja": "接続詞"
     },
     "pronoun": {
         "en": "pronoun",
         "uk": "займенник",
         "ru": "местоимение",
         "zh_CN": "代词"
+        "ja": "代名詞"
     },
     "article": {
         "en": "article",
         "uk": "артикль",
         "ru": "артикль",
         "zh_CN": "文章"
+        "ja": "冠詞"
     },
     "auxiliary_verb": {
         "en": "auxiliary verb",
         "uk": "допоміжне дієслово",
         "ru": "вспомогательный глагол",
         "zh_CN": "助动词"
+        "ja": "助動詞"
     },
     "particle": {
         "en": "particle",
         "uk": "частка",
         "ru": "частица",
         "zh_CN": "助词"
+        "ja": "不変化詞"
     }
 }
