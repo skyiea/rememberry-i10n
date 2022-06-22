@@ -3,32 +3,37 @@
         "en": "Welcome!",
         "uk": "Ласкаво просимо!",
         "ru": "Добро пожаловать!",
-        "zh_CN": "欢迎！"
+        "zh_CN": "欢迎！",
+        "hu": "Üdvözöljük!"
     },
     "welcomeMessage": {
         "en": "Now you can translate any text and save it for learning.\n$1 on unknown word in web page to view translation.",
         "uk": "Тепер Ви можете перекладати будь-який текст та зберегти його для подальшого вивчення.\n$1 на будь-якому слові на сторінці.",
         "ru": "Теперь Вы можете переводить любой текст и сохранять его для дальнейшего изучения.\n$1 на любом слове на странице.",
-        "zh_CN": "现在您可以翻译任何文本并将其保存以供学习。\n$1 在网页中的未知单词上查看翻译。"
+        "zh_CN": "现在您可以翻译任何文本并将其保存以供学习。\n$1 在网页中的未知单词上查看翻译。",
+        "hu": "Most már le tud fordítani bármilyen szöveget, és elmentheti tanuláshoz.\n$1 ismeretlen szón a weboldalon, hogy megnézhesse a fordítást."
     },
     "welcomeHowToLink": {
         "en": "Watch brief how-to",
         "uk": "Переглянути коротку відеопрезентацію",
         "ru": "Посмотреть короткую видеопрезентацию",
-        "zh_CN": "观看简要的操作方法"
+        "zh_CN": "观看简要的操作方法",
+        "hu": "Gyorstalpaló megtekintése"
     },
     "welcomeConfigure": {
         "en": "Configure language, trigger action and more",
         "uk": "Налаштувати мову, гарячі клавіші та інше",
         "ru": "Настроить язык, горячие клавиши и другое",
-        "zh_CN": "配置语言，触发操作等等"
+        "zh_CN": "配置语言，触发操作等等",
+        "hu": "Nyelvek konfigurálása, akciók futtatása, és több"
     },
     "welcomeActionWithoutModifier": {
         "locales": {
             "en": "Make $action$",
             "uk": "Зробіть $action$",
             "ru": "Сделайте $action$",
-            "zh_CN": "标记 $action$"
+            "zh_CN": "标记 $action$",
+            "hu": "Csinálja ezt: $action$"
         },
         "placeholders": {
             "action": {
@@ -41,7 +46,8 @@
             "en": "Hold $modifier$ key and $action$",
             "uk": "Утримуючи $modifier$ зробіть $action$",
             "ru": "Удерживая $modifier$ сделайте $action$",
-            "zh_CN": "持有 $modifier$ key 和 $action$"
+            "zh_CN": "持有 $modifier$ key 和 $action$",
+            "hu": "Tartsa lenyomva a $modifier$ billentyűt, majd $action$"
         },
         "placeholders": {
             "modifier": {

@@ -3,634 +3,740 @@
         "en": "languages",
         "uk": "мови",
         "ru": "языки",
-        "zh_CN": "语言"
+        "zh_CN": "语言",
+        "hu": "nyelvek"
     },
     "source_language": {
         "en": "source language",
         "uk": "мова оригіналу",
         "ru": "язык оригинала",
-        "zh_CN": "源语言"
+        "zh_CN": "源语言",
+        "hu": "forrásnyelv"
     },
     "target_language": {
         "en": "target language",
         "uk": "мова перекладу",
         "ru": "язык перевода",
-        "zh_CN": "目标语言"
+        "zh_CN": "目标语言",
+        "hu": "célnyelv"
     },
     "modifiers": {
         "en": "modifiers",
         "uk": "модифікатори",
         "ru": "модификаторы",
-        "zh_CN": "修饰符"
+        "zh_CN": "修饰符",
+        "hu": "módosítók"
     },
     "trigger_action": {
         "en": "trigger action",
         "uk": "тип запуску",
         "ru": "тип запуска",
-        "zh_CN": "触发行为"
+        "zh_CN": "触发行为",
+        "hu": "akció lefuttatása"
     },
     "triggers": {
         "en": "triggers",
         "uk": "тригери",
         "ru": "триггеры",
-        "zh_CN": "触发器"
+        "zh_CN": "触发器",
+        "hu": "lefuttatások"
     },
     "key_modifier": {
         "en": "key modifier",
         "uk": "клавіша модифікатор",
         "ru": "клавиша модификатор",
-        "zh_CN": "功能键"
+        "zh_CN": "功能键",
+        "hu": "módosítóbillentyű"
     },
     "detect": {
         "en": "detect",
         "uk": "автовизначення",
         "ru": "автоопределение",
-        "zh_CN": "检测"
+        "zh_CN": "检测",
+        "hu": "észlelés"
     },
     "save": {
         "en": "save",
         "uk": "зберегти",
         "ru": "сохранить",
-        "zh_CN": "保存"
+        "zh_CN": "保存",
+        "hu": "mentés"
     },
     "sentence": {
         "en": "sentence",
         "uk": "речення",
         "ru": "предложения",
-        "zh_CN": "句子"
+        "zh_CN": "句子",
+        "hu": "mondat"
     },
     "custom": {
         "en": "custom",
         "uk": "інший",
         "ru": "другой",
-        "zh_CN": "自定义"
+        "zh_CN": "自定义",
+        "hu": "egyéni"
     },
     "loading": {
         "en": "loading",
         "uk": "завантаження",
         "ru": "загрузка",
-        "zh_CN": "加载"
+        "zh_CN": "加载",
+        "hu": "betöltés"
     },
     "show_answer": {
         "en": "show answer",
         "uk": "показати відповідь",
         "ru": "показать ответ",
-        "zh_CN": "显示答案"
+        "zh_CN": "显示答案",
+        "hu": "válasz mutatása"
     },
     "easy": {
         "en": "easy",
         "uk": "легко",
         "ru": "легко",
-        "zh_CN": "简单"
+        "zh_CN": "简单",
+        "hu": "könnyű"
     },
     "normal": {
         "en": "normal",
         "uk": "середньо",
         "ru": "средне",
-        "zh_CN": "正常"
+        "zh_CN": "正常",
+        "hu": "normális"
     },
     "hard": {
         "en": "hard",
         "uk": "складно",
         "ru": "сложно",
-        "zh_CN": "困难"
+        "zh_CN": "困难",
+        "hu": "nehéz"
     },
     "decks": {
         "en": "decks",
         "uk": "колоди",
         "ru": "колоды",
-        "zh_CN": "卡组"
+        "zh_CN": "卡组",
+        "hu": "készletek"
     },
     "deck": {
         "en": "deck",
         "uk": "колода",
         "ru": "колода",
-        "zh_CN": "卡组"
+        "zh_CN": "卡组",
+        "hu": "készlet"
     },
     "deck_description": {
         "en": "deck description",
         "uk": "опис колоди",
         "ru": "описание колоды",
-        "zh_CN": "卡组说明"
+        "zh_CN": "卡组说明",
+        "hu": "készlet leírása"
     },
     "login": {
         "en": "login",
         "uk": "логін",
         "ru": "логин",
-        "zh_CN": "登录"
+        "zh_CN": "登录",
+        "hu": "belépés"
     },
     "password": {
         "en": "password",
         "uk": "пароль",
         "ru": "пароль",
-        "zh_CN": "密码"
+        "zh_CN": "密码",
+        "hu": "jelszó"
     },
     "log_in": {
         "en": "log in",
         "uk": "увійти",
         "ru": "войти",
-        "zh_CN": "登录"
+        "zh_CN": "登录",
+        "hu": "bejelentkezés"
     },
     "log_out": {
         "en": "log out",
         "uk": "вийти",
         "ru": "выйти",
-        "zh_CN": "登出"
+        "zh_CN": "登出",
+        "hu": "kijelentkezés"
     },
     "back": {
         "en": "back",
         "uk": "назад",
         "ru": "назад",
-        "zh_CN": "后退"
+        "zh_CN": "后退",
+        "hu": "vissza"
     },
     "model": {
         "en": "model",
         "uk": "модель",
         "ru": "модель",
-        "zh_CN": "模型"
+        "zh_CN": "模型",
+        "hu": "modell"
     },
     "export": {
         "en": "export",
         "uk": "експортувати",
         "ru": "экспортировать",
-        "zh_CN": "导出"
+        "zh_CN": "导出",
+        "hu": "exportálás"
     },
     "expand": {
         "en": "expand",
         "uk": "розгорнути",
         "ru": "развернуть",
-        "zh_CN": "扩大"
+        "zh_CN": "扩大",
+        "hu": "kiterjesztés"
     },
     "collapse": {
         "en": "collapse",
         "uk": "згорнути",
         "ru": "свернуть",
-        "zh_CN": "折叠"
+        "zh_CN": "折叠",
+        "hu": "összecsukás"
     },
     "original_term": {
         "en": "original term",
         "uk": "оригінальний термін",
         "ru": "оригинальное выражение",
-        "zh_CN": "原文"
+        "zh_CN": "原文",
+        "hu": "eredeti kifejezés"
     },
     "translations": {
         "en": "translations",
         "uk": "переклади",
         "ru": "переводы",
-        "zh_CN": "其它语言版本"
+        "zh_CN": "其它语言版本",
+        "hu": "fordítások"
     },
     "card_edit": {
         "en": "card edit",
         "uk": "редагування картки",
         "ru": "редактирования карточки",
-        "zh_CN": "卡片编辑"
+        "zh_CN": "卡片编辑",
+        "hu": "kártya szerkesztése"
     },
     "other": {
         "en": "other",
         "uk": "інші",
         "ru": "другие",
-        "zh_CN": "其他"
+        "zh_CN": "其他",
+        "hu": "egyéb"
     },
     "undo": {
         "en": "undo",
         "uk": "відмінити останню дію",
         "ru": "отменить последнее действие",
-        "zh_CN": "还原"
+        "zh_CN": "还原",
+        "hu": "visszavonás"
     },
     "filter": {
         "en": "filter",
         "uk": "фільтр",
         "ru": "фильтр",
-        "zh_CN": "过滤器"
+        "zh_CN": "过滤器",
+        "hu": "szűrő"
     },
     "cancel": {
         "en": "cancel",
         "uk": "скасувати",
         "ru": "отменить",
-        "zh_CN": "取消"
+        "zh_CN": "取消",
+        "hu": "mégsem"
     },
     "delete": {
         "en": "delete",
         "uk": "видалити",
         "ru": "удалить",
-        "zh_CN": "删除"
+        "zh_CN": "删除",
+        "hu": "törlés"
     },
     "edit": {
         "en": "edit",
         "uk": "редагувати",
         "ru": "редактировать",
-        "zh_CN": "编辑"
+        "zh_CN": "编辑",
+        "hu": "szerkesztés"
     },
     "add_new_translation": {
         "en": "add new translation",
         "uk": "додати новий переклад",
         "ru": "добавить новый перевод",
-        "zh_CN": "添加新的翻译"
+        "zh_CN": "添加新的翻译",
+        "hu": "új fordítás hozzáadása"
     },
     "check_all": {
         "en": "check all",
         "uk": "виділити всі",
         "ru": "выделить все",
-        "zh_CN": "全选"
+        "zh_CN": "全选",
+        "hu": "összes ellenőrzése"
     },
     "sort_direction": {
         "en": "sort direction",
         "uk": "напрямок сортування",
         "ru": "направление сортировки",
-        "zh_CN": "排序方向"
+        "zh_CN": "排序方向",
+        "hu": "rendezés iránya"
     },
     "new_first": {
         "en": "new first",
         "uk": "новизною",
         "ru": "новизне",
-        "zh_CN": "按添加顺序"
+        "zh_CN": "按添加顺序",
+        "hu": "az új először"
     },
     "alphabetically": {
         "en": "alphabetically",
         "uk": "алфавітом",
         "ru": "алфавиту",
-        "zh_CN": "按字母顺序"
+        "zh_CN": "按字母顺序",
+        "hu": "betűrend szerint"
     },
     "most_repeated": {
         "en": "most repeated",
         "uk": "к-стю повторень",
         "ru": "к-сву повторений",
-        "zh_CN": "按重复次数"
+        "zh_CN": "按重复次数",
+        "hu": "leginkább ismételt"
     },
     "most_useful": {
         "en": "most useful",
         "uk": "корисністю",
         "ru": "полезности",
-        "zh_CN": "按有效性"
+        "zh_CN": "按有效性",
+        "hu": "leghasznosabb"
     },
     "sort_by": {
         "en": "sort by",
         "uk": "сортувати за",
         "ru": "сортировать по",
-        "zh_CN": "排序方式"
+        "zh_CN": "排序方式",
+        "hu": "rendezd eszerint"
     },
     "forward": {
         "en": "forward",
         "uk": "вперед",
         "ru": "вперед",
-        "zh_CN": "前进"
+        "zh_CN": "前进",
+        "hu": "előre"
     },
     "of": {
         "en": "of",
         "uk": "з",
         "ru": "с",
-        "zh_CN": "共"
+        "zh_CN": "共",
+        "hu": "-ból"
     },
     "popup": {
         "en": "popup",
         "uk": "вікно додатку",
         "ru": "окно приложения",
-        "zh_CN": "弹出式窗口"
+        "zh_CN": "弹出式窗口",
+        "hu": "felugró ablak"
     },
     "popup_type": {
         "en": "popup type",
         "uk": "тип вікна",
         "ru": "тип окна",
-        "zh_CN": "弹窗默认模式"
+        "zh_CN": "弹窗默认模式",
+        "hu": "ablak típusa"
     },
     "number_of_available_cards": {
         "en": "number of available cards",
         "uk": "загальну кількість доступних карток",
         "ru": "общее количество доступных карточек",
-        "zh_CN": "可用卡片的数量"
+        "zh_CN": "可用卡片的数量",
+        "hu": "elérhető kártyák száma"
     },
     "number_of_available_cards_in_active_deck": {
         "en": "number of available cards in active deck",
         "uk": "кількість доступних карток в активній колоді",
         "ru": "количество доступных карточек в активной колоде",
-        "zh_CN": "当前卡组中可用卡片的数量"
+        "zh_CN": "当前卡组中可用卡片的数量",
+        "hu": "aktív készlet elérhető kártyáinak száma"
     },
     "reminders": {
         "en": "reminders",
         "uk": "нагадування",
         "ru": "напоминания",
-        "zh_CN": "提醒"
+        "zh_CN": "提醒",
+        "hu": "emlékeztetők"
     },
     "enable": {
         "en": "enable",
         "uk": "увімкнути/вимкнути",
         "ru": "включить/выключить",
-        "zh_CN": "启用"
+        "zh_CN": "启用",
+        "hu": "bekapcsolás"
     },
     "ripened_cards": {
         "en": "available cards",
         "uk": "доступних карток",
         "ru": "доступных карточек",
-        "zh_CN": "可用的卡片"
+        "zh_CN": "可用的卡片",
+        "hu": "elérhető kártyák"
     },
     "total_cards": {
         "en": "total cards",
         "uk": "всього карток",
         "ru": "всего карточек",
-        "zh_CN": "全部卡片"
+        "zh_CN": "全部卡片",
+        "hu": "összes kártya"
     },
     "learning_mode": {
         "en": "learning mode",
         "uk": "режим вивчення",
         "ru": "режим изучения",
-        "zh_CN": "学习模式"
+        "zh_CN": "学习模式",
+        "hu": "tanuló mód"
     },
     "hotkey": {
         "en": "hotkey",
         "uk": "гаряча клавіша",
         "ru": "горячая клавиша",
-        "zh_CN": "快捷键"
+        "zh_CN": "快捷键",
+        "hu": "gyorsbillentyű"
     },
     "start": {
         "en": "start",
         "uk": "старт",
         "ru": "старт",
-        "zh_CN": "开始"
+        "zh_CN": "开始",
+        "hu": "indítás"
     },
     "learned": {
         "en": "learned",
         "uk": "додано",
         "ru": "добавлено",
-        "zh_CN": "已学习"
+        "zh_CN": "已学习",
+        "hu": "megtanult"
     },
     "repeated": {
         "en": "repeated",
         "uk": "повторено",
         "ru": "повторено",
-        "zh_CN": "重复"
+        "zh_CN": "重复",
+        "hu": "ismételt"
     },
     "return": {
         "en": "return",
         "uk": "повернутись",
         "ru": "вернуться",
-        "zh_CN": "返回"
+        "zh_CN": "返回",
+        "hu": "visszatérés"
     },
     "just_now": {
         "en": "just now",
         "uk": "щойно",
         "ru": "только что",
-        "zh_CN": "不久前"
+        "zh_CN": "不久前",
+        "hu": "éppen most"
     },
     "ago": {
         "en": "ago",
         "uk": "тому",
         "ru": "назад",
-        "zh_CN": "之前"
+        "zh_CN": "之前",
+        "hu": "-val ezelőtt"
     },
     "seconds": {
         "en": "seconds",
         "uk": "секунди",
         "ru": "сек",
-        "zh_CN": "秒"
+        "zh_CN": "秒",
+        "hu": "másodperc"
     },
     "minutes": {
         "en": "minutes",
         "uk": "хвилини",
         "ru": "мин",
-        "zh_CN": "分钟"
+        "zh_CN": "分钟",
+        "hu": "perc"
     },
     "hours": {
         "en": "hours",
         "uk": "години",
         "ru": "ч",
-        "zh_CN": "小时"
+        "zh_CN": "小时",
+        "hu": "óra"
     },
     "days": {
         "en": "days",
         "uk": "дні",
         "ru": "дн",
-        "zh_CN": "天"
+        "zh_CN": "天",
+        "hu": "nap"
     },
     "months": {
         "en": "months",
         "uk": "місяці",
         "ru": "мес",
-        "zh_CN": "月"
+        "zh_CN": "月",
+        "hu": "hónap"
     },
     "more_than_year_ago": {
         "en": "more than year ago",
         "uk": "більше року тому",
         "ru": "больше года назад",
-        "zh_CN": "一年前"
+        "zh_CN": "一年前",
+        "hu": "több mint egy éve"
     },
     "text_to_translate": {
         "en": "text to translate",
         "uk": "текст для перекладу",
         "ru": "текст для перевода",
-        "zh_CN": "文字翻译"
+        "zh_CN": "文字翻译",
+        "hu": "lefordítani kívánt szöveg"
     },
     "warning": {
         "en": "warning",
         "uk": "попередження",
         "ru": "предупреждение",
-        "zh_CN": "注意"
+        "zh_CN": "注意",
+        "hu": "figyelmeztetés"
     },
     "error": {
         "en": "error",
         "uk": "помилка",
         "ru": "ошибка",
-        "zh_CN": "错误"
+        "zh_CN": "错误",
+        "hu": "hiba"
     },
     "in": {
         "en": "in",
         "uk": "в",
         "ru": "в",
-        "zh_CN": "在"
+        "zh_CN": "在",
+        "hu": "itt:"
     },
     "reminder": {
         "en": "reminder",
         "uk": "нагадування",
         "ru": "напоминания",
-        "zh_CN": "提醒"
+        "zh_CN": "提醒",
+        "hu": "emlékeztető"
     },
     "preserve_credentials": {
         "en": "preserve credentials",
         "uk": "запам'ятати дані авторизації",
         "ru": "запомнить данные авторизации",
-        "zh_CN": "保留凭据"
+        "zh_CN": "保留凭据",
+        "hu": "hitelesítő adatok megőrzése"
     },
     "try_again": {
         "en": "try again",
         "uk": "повторити спробу",
         "ru": "повторить попытку",
-        "zh_CN": "重试"
+        "zh_CN": "重试",
+        "hu": "próbálja újra"
     },
     "translation": {
         "en": "translation",
         "uk": "переклад",
         "ru": "перевод",
-        "zh_CN": "翻译"
+        "zh_CN": "翻译",
+        "hu": "fordítás"
     },
     "synonym": {
         "en": "synonym",
         "uk": "синонім",
         "ru": "синоним",
-        "zh_CN": "代名词"
+        "zh_CN": "代名词",
+        "hu": "szinonima"
     },
     "antonym": {
         "en": "antonym",
         "uk": "антонім",
         "ru": "антоним",
-        "zh_CN": "反义词"
+        "zh_CN": "反义词",
+        "hu": "ellentettszó"
     },
     "definition": {
         "en": "definition",
         "uk": "визначення",
         "ru": "определение",
-        "zh_CN": "这是定义"
+        "zh_CN": "这是定义",
+        "hu": "meghatározás"
     },
     "example": {
         "en": "example",
         "uk": "приклад",
         "ru": "пример",
-        "zh_CN": "例子"
+        "zh_CN": "例子",
+        "hu": "példa"
     },
     "answer": {
         "en": "answer",
         "uk": "відповідь",
         "ru": "ответ",
-        "zh_CN": "答案"
+        "zh_CN": "答案",
+        "hu": "válasz"
     },
     "all": {
         "en": "all",
         "uk": "усі",
         "ru": "все",
-        "zh_CN": "所有"
+        "zh_CN": "所有",
+        "hu": "minden"
     },
     "cards_per_session": {
         "en": "cards per session",
         "uk": "карток у сесії",
         "ru": "карточек в сессии",
-        "zh_CN": "每个卡片会话"
+        "zh_CN": "每个卡片会话",
+        "hu": "kártyák egy alkalomkor"
     },
     "cards_sorting": {
         "en": "cards sorting",
         "uk": "сортування карток",
         "ru": "сортировка карточек",
-        "zh_CN": "卡片排序"
+        "zh_CN": "卡片排序",
+        "hu": "káryák rndezése"
     },
     "correct_answer": {
         "en": "correct answer",
         "uk": "вірна відповідь",
         "ru": "верный ответ",
-        "zh_CN": "正确答案"
+        "zh_CN": "正确答案",
+        "hu": "helyes válasz"
     },
     "your_answer": {
         "en": "your answer",
         "uk": "ваша відповідь",
         "ru": "ваш ответ",
-        "zh_CN": "你的答案"
+        "zh_CN": "你的答案",
+        "hu": "az Ön válasza"
     },
     "correct": {
         "en": "correct",
         "uk": "вірно",
         "ru": "верно",
-        "zh_CN": "确定"
+        "zh_CN": "确定",
+        "hu": "helyes"
     },
     "incorrect": {
         "en": "incorrect",
         "uk": "невірно",
         "ru": "неверно",
-        "zh_CN": "不正确"
+        "zh_CN": "不正确",
+        "hu": "helytelen"
     },
     "translate": {
         "en": "translate",
         "uk": "перекласти",
         "ru": "перевести",
-        "zh_CN": "翻译"
+        "zh_CN": "翻译",
+        "hu": "fordítás"
     },
     "learn": {
         "en": "learn",
         "uk": "вивчати",
         "ru": "изучать",
-        "zh_CN": "学习"
+        "zh_CN": "学习",
+        "hu": "tanulás"
     },
     "settings": {
         "en": "settings",
         "uk": "налаштування",
         "ru": "настройки",
-        "zh_CN": "设置"
+        "zh_CN": "设置",
+        "hu": "beállítások"
     },
     "plan": {
         "en": "plan",
         "uk": "план",
         "ru": "план",
-        "zh_CN": "计划"
+        "zh_CN": "计划",
+        "hu": "terv"
     },
     "unlimited": {
         "en": "unlimited",
         "uk": "необмежено",
         "ru": "неограничено",
-        "zh_CN": "无限"
+        "zh_CN": "无限",
+        "hu": "korlátlan"
     },
     "per_month": {
         "en": "per month",
         "uk": "в місяць",
         "ru": "в месяц",
-        "zh_CN": "每月"
+        "zh_CN": "每月",
+        "hu": "havonta"
     },
     "time_left": {
         "en": "time left",
         "uk": "залишилось",
         "ru": "осталось",
-        "zh_CN": "剩余时间"
+        "zh_CN": "剩余时间",
+        "hu": "hátramaradt idő"
     },
     "more_than_a_month": {
         "en": "more than a month",
         "uk": "більше місяця",
         "ru": "больше месяца",
-        "zh_CN": "超过一个月"
+        "zh_CN": "超过一个月",
+        "hu": "több, mint egy hónap"
     },
     "on": {
         "en": "on",
         "uk": "увімкнено",
         "ru": "включено",
-        "zh_CN": "开"
+        "zh_CN": "开",
+        "hu": "rajta"
     },
     "off": {
         "en": "off",
         "uk": "вимкнено",
         "ru": "отключено",
-        "zh_CN": "关"
+        "zh_CN": "关",
+        "hu": "el"
     },
     "additional": {
         "en": "additional",
         "uk": "додатково",
         "ru": "дополнительно",
-        "zh_CN": "附加"
+        "zh_CN": "附加",
+        "hu": "további"
     },
     "cut": {
         "en": "cut",
         "uk": "вирізати",
         "ru": "вырезать",
-        "zh_CN": "剪切"
+        "zh_CN": "剪切",
+        "hu": "kivágás"
     },
     "paste": {
         "en": "paste",
         "uk": "вставити",
         "ru": "вставить",
-        "zh_CN": "粘贴"
+        "zh_CN": "粘贴",
+        "hu": "beillesztés"
     },
     "initialTab": {
         "en": "Initial tab",
         "uk": "Початкова вкладка",
         "ru": "Начальная вкладка",
-        "zh_CN": "初始选项卡"
+        "zh_CN": "初始选项卡",
+        "hu": "kezdeti oldal"
     },
     "OK": {
         "en": "ОК",
-        "zh_CN": "确定"
+        "zh_CN": "确定",
+        "hu": "Rendben"
     },
     "webpage": {
         "en": "webpage",
         "uk": "веб-сторінка",
         "ru": "веб-страница",
-        "zh_CN": "网页"
+        "zh_CN": "网页",
+        "hu": "weboldal"
     },
     "recentlyUsed": {
         "en": "Recent",
         "uk": "Нещодавні",
         "ru": "Недавние",
-        "zh_CN": "最近"
+        "zh_CN": "最近",
+        "hu": "Nem régi"
     }
 }
